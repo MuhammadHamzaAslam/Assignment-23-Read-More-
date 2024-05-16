@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif !important;
+    /* text-align: left; */
+}
+div{
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .12);
+    width: 50%;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif !important;
+    text-align:justify ;
+}
